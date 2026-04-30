@@ -19,9 +19,10 @@ Me apasiona transformar datos en historias visuales y decisiones estratégicas. 
 
 | Categoría | Herramientas y Lenguajes |
 | :--- | :--- |
-| **Lenguajes** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![AppScript](https://img.shields.io/badge/AppScript-4285F4?style=for-the-badge&logo=google&logoColor=white) |
+| **Lenguajes** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AppScript](https://img.shields.io/badge/AppScript-4285F4?style=for-the-badge&logo=google&logoColor=white) |
+| **Lenguaje de consultas** | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) |
 | **Visualización** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black) ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) |
-| **Análisis** | ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
+| **Análisis** | ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)|
 | **Control de Versiones** | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) |
 
 ---
@@ -38,8 +39,8 @@ Me apasiona transformar datos en historias visuales y decisiones estratégicas. 
 ¡Hablemos de datos o de nuevos proyectos!
 
 - 📧 **Correo:** [henry.acosta.h94@gmail.com](mailto:henry.acosta.h94@gmail.com)
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/henryacostahuaman/](https://www.linkedin.com/in/henryacostahuaman/)
-- 🌐 **Portfolio:** [Enlace a tu web o dashboard]
+- 💼 **LinkedIn:** [henryacostah](https://www.linkedin.com/in/henryacostah/)
+- 🌐 **Portfolio:** [ElHenrys](https://github.com/ElHenrys)
 - 📍 **Ubicación:** Chiclayo, Perú
 
 ---
